@@ -119,7 +119,7 @@ operation:
         config: {}
         dataType: DECIMAL(9,2)
         description: ""
-        name: ACP_PER_UNIT
+        name: ACP_RATE
         nullable: true
         sourceColumnReferences:
           - columnReferences:

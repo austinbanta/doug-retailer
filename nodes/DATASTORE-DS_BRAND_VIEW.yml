@@ -194,6 +194,7 @@ operation:
         dataType: NUMBER(12,2)
         description: ""
         hashDetails: null
+        isChangeTracking: true
         name: COMPETITOR_PRICE
         nullable: true
         sourceColumnReferences:
@@ -618,7 +619,7 @@ operation:
   name: DS_BRAND_VIEW
   overrideSQL: false
   schema: ""
-  sqlType: Stage
+  sqlType: Dimension
   type: sql
   version: 1
 type: Node

@@ -1,0 +1,7 @@
+fileVersion: 1
+id: 6c0389be-c0ec-4db9-b8d2-872507fa36fd
+name: Product
+steps:
+  - 0355f09a-986e-4099-860d-8c6c7ca0520f
+  - edead2c1-137b-4a08-aae2-b00859bf3149
+type: Subgraph
